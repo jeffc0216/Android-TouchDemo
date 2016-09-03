@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_63b71fba86cec4d1067df0f63883b826bd1d81ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_792f0debce08fadf6e80c15106cb4409d5490c49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_8329e1e77fcef8316ce018014dc7a6a45b7d04ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7df3b9ae0c75b226ff40be00beff138867d8e6bb">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3d06b0420c0a4e126ea0b7a4281fca18bcd161a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ff7280aa6894c7fde3b209a7ea1b8743eb83e3e6">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d348665ade2bca704737bc7845a571f6de0c0b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/TouchDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_e4ad23d7a9aa2aa30ce839426ee7132b3092fb2a/classes.dex" />
+    </item>
+
+</items>
